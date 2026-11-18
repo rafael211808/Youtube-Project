@@ -1,6 +1,6 @@
 # 🌐 HTML & CSS Course - Beginner to Pro
 
-Repository containing source code, practical exercises, and small components developed during the complete **HTML & CSS** course from the **[SuperSimpleDev] (https://www.youtube.com/@supersimpledev)**.
+Repository containing source code, practical exercises, and small components developed during the complete **HTML & CSS** course from the **[SuperSimpleDev](https://www.youtube.com/@supersimpledev)**.
 
 ---
 
